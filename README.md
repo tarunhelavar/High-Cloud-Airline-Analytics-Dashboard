@@ -63,10 +63,4 @@ This project demonstrates strong analytical thinking, data visualization, and bu
 
 ---
 
-## 📷 Dashboard Preview
-Uploading Screenshot (370).png…]()
-
-
----
-
 ## 📁 Files in This Repository
